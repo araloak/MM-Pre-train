@@ -1,0 +1,18 @@
+import torch
+
+SEP_TOKEN = '[SEP]'
+CLS_TOKEN = '[CLS]'
+#TRAIN_FILE_PATH = ''
+TRAIN_FILE_PATH = ''
+MAX_SEQ_LENGTH = 512
+BATCH_SIZE = 16
+NUM_EPOCHS = 10
+GRADIENT_ACCUMULATION_STEPS = 8
+WARMUP_STEPS = 3
+DEVICE = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+#DEVICE = "cpu"
+print(DEVICE)
+
+NUM_CLS = 7
+CKPT_SAVE_PATH=""
+PRETRAINED_MODEL_PATH= ""
