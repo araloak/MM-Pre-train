@@ -14,17 +14,17 @@ The implementation is based on fairseq framework with pytorch. We delete the ide
 
 
 
-./data directory contains scripts describing the formation of datasets.
+**./data** directory contains scripts describing the formation of datasets.
 
-./extract_features directory contains scripts regarding the collecting and pre-processing of large image datasets.
+**./extract_features** directory contains scripts regarding the collecting and pre-processing of large image datasets.
 
-./model directory contains scripts defining the model structures been studied.
+**./model** directory contains scripts defining the model structures been studied.
 
-./resnet directory contains the scripts that model, train and predict of our image encoder
+**./resnet** directory contains the scripts that model, train and predict of our image encoder
 
-./sentiment_predictor directory contains the implementation of Bert based sentiment predictor for the **C-I2T** task.
+**./sentiment_predictor** directory contains the implementation of Bert based sentiment predictor for the **C-I2T** task.
 
-./tasks directory contains scripts defining four pre-training tasks and the downstream task. 
+**./tasks** directory contains scripts defining four pre-training tasks and the downstream task. 
 
-./scripts directory contains shell scripts related to the pre-training and finetuning of different tasks.
+**./scripts** directory contains shell scripts related to the pre-training and finetuning of different tasks.
 
