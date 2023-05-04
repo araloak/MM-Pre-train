@@ -4,21 +4,8 @@ This code is for the paper: [Emotion-aware Multimodal Pre-training for Image-gro
 
 ```
 @InProceedings{mm-pretrain,
-author="Tian, Zhiliang
-and Wen, Zhihua
-and Wu, Zhenghao
-and Song, Yiping
-and Tang, Jintao
-and Li, Dongsheng
-and Zhang, Nevin L.",
-editor="Bhattacharya, Arnab
-and Lee Mong Li, Janice
-and Agrawal, Divyakant
-and Reddy, P. Krishna
-and Mohania, Mukesh
-and Mondal, Anirban
-and Goyal, Vikram
-and Uday Kiran, Rage",
+author="Tian, Zhiliang and Wen, Zhihua and Wu, Zhenghao and Song, Yiping and Tang, Jintao and Li, Dongsheng and Zhang, Nevin L.",
+editor="Bhattacharya, Arnab and Lee Mong Li, Janice and Agrawal, Divyakant and Reddy, P. Krishna and Mohania, Mukesh and Mondal, Anirban and Goyal, Vikram and Uday Kiran, Rage",
 title="Emotion-Aware Multimodal Pre-training for Image-Grounded Emotional Response Generation",
 booktitle="Database Systems for Advanced Applications",
 year="2022",
