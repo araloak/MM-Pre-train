@@ -1,8 +1,34 @@
-# Emotion-aware Multimodal Pre-training for Image-grounded Emotional Response Generation
+# MM-pretrain
+
+This code is for the paper: [Emotion-aware Multimodal Pre-training for Image-grounded Emotional Response Generation](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_1#citeas). If you use this code or results from our paper, please cite:
+
+```
+@InProceedings{mm-pretrain,
+author="Tian, Zhiliang
+and Wen, Zhihua
+and Wu, Zhenghao
+and Song, Yiping
+and Tang, Jintao
+and Li, Dongsheng
+and Zhang, Nevin L.",
+editor="Bhattacharya, Arnab
+and Lee Mong Li, Janice
+and Agrawal, Divyakant
+and Reddy, P. Krishna
+and Mohania, Mukesh
+and Mondal, Anirban
+and Goyal, Vikram
+and Uday Kiran, Rage",
+title="Emotion-Aware Multimodal Pre-training for Image-Grounded Emotional Response Generation",
+booktitle="Database Systems for Advanced Applications",
+year="2022",
+publisher="Springer International Publishing",
+isbn="978-3-031-00129-1"
+}
+```
 
 
-
-This work is developed upon these projects
+This work is based on these projects:
 
 - [ShannonAI/OpenViDial: Code, Models and Datasets for OpenViDial Dataset (github.com)](https://github.com/ShannonAI/OpenViDial)
 - [EasonCai-Dev/torch_backbones: Unofficial implementations of some classical CNN backbones with pytorch (github.com)](https://github.com/EasonCai-Dev/torch_backbones)
